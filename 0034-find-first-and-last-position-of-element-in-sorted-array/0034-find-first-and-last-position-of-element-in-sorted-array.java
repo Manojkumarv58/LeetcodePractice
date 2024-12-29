@@ -30,7 +30,7 @@ class Solution {
 
             if (arr[mid] == target) {
                 ans = mid;
-                left = mid + 1;  // Look for later occurrences in the right half
+                left = mid + 1;  
             } else if (arr[mid] < target) {
                 left = mid + 1;
             } else {
