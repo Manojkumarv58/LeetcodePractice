@@ -2,7 +2,7 @@ class Solution {
     public int[][] generateMatrix(int n) {
        
     int[][] matrix = new int[n][n];
-    int value = 1, top = 0, bottom = n - 1, left = 0, right = n - 1;
+    int value = 1, top = 0, bottom = n- 1, left = 0, right = n - 1;
     while (top <= bottom && left <= right) {
         for (int i = left; i <= right; i++) matrix[top][i] = value++;
         top++;
