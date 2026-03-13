@@ -147,3 +147,19 @@ LeetcodePractice/
 
 <!-- Footer -->
 <p align="center" style="margin-top:18px;color:#666;font-size:13px;">Tip: Edit counts manually or automate with a small script/GitHub Action later.</p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+<!---LeetCode Topics End-->
