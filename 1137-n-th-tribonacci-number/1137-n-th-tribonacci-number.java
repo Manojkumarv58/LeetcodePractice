@@ -1,14 +1,13 @@
 class Solution {
     public int tribonacci(int n) {
-        int t0=0,t1=1,t2=1;
-      int  tn=0;
-      if(n==1 ||n==2)return 1;
-        for(int i=3;i<=n;i++){
-         tn=t0+t1+t2;
-         t0=t1;
-         t1=t2;
-         t2=tn;
-        }
-        return tn;
+      int[] dp=new int[n+1];
+      Arrays.fill(dp,-1);
+      return tri(n,dp);
+    }
+    public int tri(int n, int[]dp){
+         if(n==0)return 0;
+      if (n<=2)return 1;
+      if(dp[n]!=-1)return dp[n];
+      return dp[n]=tri(n-1,dp)+tri(n-2,dp)+tri(n-3,dp);
     }
 }
