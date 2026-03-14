@@ -153,11 +153,13 @@ LeetcodePractice/
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
@@ -165,4 +167,8 @@ LeetcodePractice/
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
