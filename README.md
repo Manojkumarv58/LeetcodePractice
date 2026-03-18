@@ -159,6 +159,7 @@ LeetcodePractice/
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -171,4 +172,12 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
