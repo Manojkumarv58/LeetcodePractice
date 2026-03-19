@@ -162,6 +162,7 @@ LeetcodePractice/
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
+| [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -179,10 +180,12 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
 | [0583-delete-operation-for-two-strings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1143-longest-common-subsequence/) | Medium |
