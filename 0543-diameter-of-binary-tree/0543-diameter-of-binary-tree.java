@@ -14,37 +14,17 @@
  * }
  */
 class Solution {
+    int diameter=0;
     public int diameterOfBinaryTree(TreeNode root) {
-        return diameterHelper(root).diameter;
+        helper(root);
+        return diameter;
+        
     }
-
-    // Helper function to calculate diameter and height
-    private TreeInfo diameterHelper(TreeNode root) {
-        if (root == null) {
-            return new TreeInfo(0, 0); // Height = 0, Diameter = 0 for null node
-        }
-
-        // Recursively calculate the height and diameter of left and right subtrees
-        TreeInfo left = diameterHelper(root.left);
-        TreeInfo right = diameterHelper(root.right);
-
-        // Height of the current node
-        int height = Math.max(left.height, right.height) + 1;
-
-        // Diameter of the current node is the sum of left and right heights
-        int diameter = Math.max(left.height + right.height, Math.max(left.diameter, right.diameter));
-
-        return new TreeInfo(height, diameter);
-    }
-
-    // A utility class to store the height and diameter
-    private static class TreeInfo {
-        int height;
-        int diameter;
-
-        TreeInfo(int height, int diameter) {
-            this.height = height;
-            this.diameter = diameter;
-        }
+    public int helper( TreeNode root){
+     if(root==null) return 0;
+     int left=helper(root.left);
+     int right=helper(root.right);
+     diameter=Math.max( diameter,left+right);
+     return 1+Math.max(left,right);
     }
 }
