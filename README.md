@@ -162,6 +162,7 @@ LeetcodePractice/
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
+| [0072-edit-distance](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -190,6 +191,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0072-edit-distance](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0583-delete-operation-for-two-strings/) | Medium |
