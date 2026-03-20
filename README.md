@@ -169,6 +169,7 @@ LeetcodePractice/
 | [1092-shortest-common-supersequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -192,6 +193,7 @@ LeetcodePractice/
 | [0583-delete-operation-for-two-strings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
