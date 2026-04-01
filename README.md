@@ -160,6 +160,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0072-edit-distance/) | Medium |
@@ -203,6 +204,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -233,4 +235,8 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
