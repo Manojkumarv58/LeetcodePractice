@@ -204,6 +204,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0041-first-missing-positive](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0041-first-missing-positive/) | Hard |
 | [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -243,6 +244,7 @@ LeetcodePractice/
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
