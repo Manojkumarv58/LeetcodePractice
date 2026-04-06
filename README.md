@@ -207,6 +207,7 @@ LeetcodePractice/
 | [0041-first-missing-positive](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0041-first-missing-positive/) | Hard |
 | [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -246,6 +247,7 @@ LeetcodePractice/
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
