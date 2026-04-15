@@ -192,6 +192,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0020-valid-parentheses](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -252,4 +253,8 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
