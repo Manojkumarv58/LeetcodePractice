@@ -186,6 +186,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
 | [0647-palindromic-substrings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0647-palindromic-substrings/) | Medium |
 ## String
@@ -208,6 +209,7 @@ LeetcodePractice/
 | [0041-first-missing-positive](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0041-first-missing-positive/) | Hard |
 | [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -215,6 +217,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -260,4 +263,8 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0020-valid-parentheses/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
