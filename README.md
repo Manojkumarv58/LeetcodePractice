@@ -210,6 +210,7 @@ LeetcodePractice/
 | [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0645-set-mismatch/) | Easy |
@@ -253,6 +254,7 @@ LeetcodePractice/
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0041-first-missing-positive/) | Hard |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0645-set-mismatch/) | Easy |
@@ -260,6 +262,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0645-set-mismatch](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0645-set-mismatch/) | Easy |
 ## Stack
@@ -271,4 +274,24 @@ LeetcodePractice/
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0645-set-mismatch](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0645-set-mismatch/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
