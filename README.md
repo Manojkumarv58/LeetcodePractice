@@ -165,6 +165,7 @@ LeetcodePractice/
 | [0070-climbing-stairs](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0072-edit-distance/) | Medium |
 | [0392-is-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0392-is-subsequence/) | Easy |
+| [0435-non-overlapping-intervals](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0647-palindromic-substrings/) | Medium |
@@ -212,6 +213,7 @@ LeetcodePractice/
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0645-set-mismatch/) | Easy |
@@ -250,6 +252,7 @@ LeetcodePractice/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0055-jump-game/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +268,7 @@ LeetcodePractice/
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0645-set-mismatch](https://github.com/Manojkumarv58/LeetcodePractice/tree/main/0645-set-mismatch/) | Easy |
